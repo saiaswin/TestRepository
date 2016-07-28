@@ -1,6 +1,6 @@
 public class Test{
 
-  private static final Integer FOUR_INTEGER = 4;
+  private static final Integer FOUR_INTEGER = 6;
 
   public static void main(String[] args){
       System.out.println("Hello World!");
